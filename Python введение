@@ -1,0 +1,25 @@
+# 1st program.
+a = 9
+b = 0.5
+c = 5
+d = (a ** b) * 5
+print(d)
+
+# 2nd program.
+a = 9.99
+b = 9.98
+c = 1000
+d = 1000.1
+print(a > b and c != d)
+
+# 3rd program.
+d = 2 * 2 + 2
+e = 2 * (2 + 2)
+print(d)
+print(e)
+print(d == e)
+
+# 4th program.
+a = float ("123.456")
+b = a * 10
+print(int(b%10))
